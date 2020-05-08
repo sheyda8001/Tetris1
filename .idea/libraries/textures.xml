@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="textures">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/textures" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+in code bargerefteh az casestudy astroide va linke https://github.com/JoshuaHernandezMartinez/Tetris---Java.git 
+hast ke az linke bala dar sakht ghete haye bazi estefade shode va baghie ravande bazi bar asase astride mibashad va hamchenin khodam.
+jelve haye soti darad ke file ba formate .wav hastesh dar dakhele file prozhe 
+import ha anjam shode va library khassi nadarad as w3school.com ham baraye yadgiri swing estefade shode ast
